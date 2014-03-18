@@ -13,13 +13,13 @@
   list-style: none;
   margin: 0;
   padding: 0;
-  -webkit-animation: "spinner 15s 3s infinite";
+  -webkit-animation: spinner 15s 3s infinite;
   /* Safari 4+ */
-  -moz-animation: "spinner 15s 3s infinite";
+  -moz-animation: spinner 15s 3s infinite;
   /* Fx 5+ */
-  -o-animation: "spinner 15s 3s infinite";
+  -o-animation: spinner 15s 3s infinite;
   /* Opera 12+ */
-  animation: "spinner 15s 3s infinite";
+  animation: spinner 15s 3s infinite;
   /* IE 10+ */ }
   .spinner ul li {
     height: 1.4em;
